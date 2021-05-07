@@ -1,7 +1,6 @@
 class TestsController < ApplicationController
 
-index do
-  
+def index
 end 
 
 end
